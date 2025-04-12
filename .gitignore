@@ -1,0 +1,42 @@
+# Dépendances
+node_modules/
+bun.lock
+modlists.json
+
+# Fichiers de build et résultats
+dist/
+build/
+results/
+coverage/
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# Fichiers de configuration sensibles
+.env
+.env.local
+.env.*.local
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Répertoires de l'éditeur
+.vscode/
+.idea/
+*.code-workspace
+
+# Fichiers de test
+*.test.ts
+*.spec.ts
+__tests__/
+
+# Fichiers compilés
+*.js
+*.js.map
+*.d.ts
