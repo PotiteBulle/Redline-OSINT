@@ -1,0 +1,10 @@
+[
+    {
+        "label": "CSAM",
+        "uri": "at://did:plc:example1/app.bsky.graph.list/*******"
+    },
+    {
+        "label": "FakeAI",
+        "uri": "at://did:plc:example2/app.bsky.graph.list/******"
+    }
+]
