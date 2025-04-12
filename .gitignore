@@ -1,6 +1,5 @@
 # Dépendances
 node_modules/
-bun.lock
 modlists.json
 
 # Fichiers de build et résultats
